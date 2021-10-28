@@ -11,8 +11,6 @@ title: Contact
 
 <br>
 
-Think we'd be a good fit, or just want to learn more about our services?
+Think we'd be a good fit, or just want to learn more about my services?
 
-Reach out to us at [info@axismath.com](mailto:info@axismath.com) — we'd love to hear from you, and typically respond within 24 hours!
-
-
+Reach out to me at [info@axismath.com](mailto:info@axismath.com) — I'd love to hear from you, and typically respond within 24 hours!
