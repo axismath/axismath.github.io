@@ -7,7 +7,7 @@ title: Home
 
 <br>
 
-<img src="assets/pics/beach-thin.jpg" class="img-fluid">
+<img src="assets/pics/math.jpg" class="img-fluid">
 
 <br>
 
