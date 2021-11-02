@@ -19,19 +19,17 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Axis Math Tutoring
-email: hello@axismath.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Axis Math Tutoring offers personalized, one-on-one instruction in high school
-  level mathematics, based on decades of teaching experience.
+email: info@axismath.com
+description: I'm an experienced math teacher who offers personalized, one-on-one mathematics tutoring for students in grades 6-12, in-person or online.
 
 # Write an awesome description for your new site here. You can edit this
 # line in _config.yml. It will appear in your document head meta (for
 # Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
 url: https://www.axismath.com/ # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
-facebook_username:  Axis Math Tutoring
+# facebook_username:  Axis Math Tutoring
 
 # Build settings
 theme: minima
