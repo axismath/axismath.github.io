@@ -1,3 +1,19 @@
 html {
     font-size: 1.2em;
 }
+
+.nav-link {
+    color: #03BBD3;
+}
+
+.nav-item .nav-link.active {
+    background-color: #03BBD3;
+}
+
+a {
+    color: #03BBD3;
+}
+
+/* .nav-tabs .nav-item .nav-link.active {
+    color: #0080FF;
+  } */
