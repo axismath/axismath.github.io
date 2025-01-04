@@ -2,9 +2,14 @@
 
   <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
 
-    <p class="d-flex align-items-center mb-3 mb-md-0 text-dark me-md-auto text-decoration-none lead" style="font-size: 1.7em">Axis Math Tutoring</p>
+    <p class="d-flex align-items-center mb-3 mb-md-0 text-dark me-md-auto text-decoration-none lead" style="font-size: 1.7em">
+      <img width="100px;" src="/assets/pics/logo-crop.jpg">
+    </p>
+    <p class="d-flex align-items-center mb-3 mb-md-0 text-dark me-md-auto text-decoration-none lead" style="font-size: 1.7em">
+      <b>Axis Math Tutoring</b>
+    </p>
 
-    <ul class="nav nav-pills">
+    <ul class="nav nav-pills align-items-center">
       {% for item in site.data.nav.map %}
         {% if item.url == page.url %}
           <li class="nav-item"><a href="{{ item.url }}" class="nav-link active" aria-current="page">{{ item.title | escape }}</a></li>

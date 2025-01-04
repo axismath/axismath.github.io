@@ -21,4 +21,4 @@ title: Home
 
 <p>By working with me, you'll learn new approaches for effectively studying math concepts; strengthen your analytical skills; develop problem solving strategies; and build the confidence needed to tackle assignments and overcome test anxiety. Most importantly, you'll gain a <b>true step-by-step understanding</b> of the material.</p>
 
-<p>Interested? <a href="/contact.html">Reach out</a> to schedule a free introductory session today, or <a href="/about.html">read more</a> about me. I look forward to working with you!</p>
+<p>Interested? <a href="/contact.html">Reach out</a> to schedule an introductory session today, or <a href="/about.html">read more</a> about me. I look forward to working with you!</p>
